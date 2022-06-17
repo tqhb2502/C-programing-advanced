@@ -1,0 +1,15 @@
+[STATIONS]
+S1=Ha Noi
+S2=Tp Ho Chi Minh
+S3=Da Nang
+S4=Phu Tho
+S5=Hai Phong
+S6=Sa Pa
+S7=Thanh Hoa
+S8=Nghe An
+S9=Ca Mau
+S10=Nha Trang
+[LINES]
+M1=S1 S2 S4 S3 S7
+M2=S3 S5 S6 S8 S9
+M3=S9 S10 S3
